@@ -3,11 +3,19 @@ title: Homepage
 layout: default
 ---
 
-# Intercultural Dialogue and Multilingualism in Post-Conquest England: A Database of French Literary Manuscripts Produced Between 1100-1550
+# French Literary Manusripts in England, 1100-1550
 
-The Norman Conquest of 1066 is often understood as a major turning point in the linguistic history of England, since it placed French-speaking Normans in the high ranks of both secular and religious administration. The Conquest has become so important for the history of the English language that ir is often treated as the end of the Old English period and the start of the Middle English period.  Yet scholars have become increasingly interested in evaluating the significance of the Conquest for England’s linguistic history.  As Douglas Kibbee (1991) and others have pointed out, the Normans had, long before the Conquest, established powerful ties to England, including, perhaps most famously, the 1002 marriage between the Anglo-Saxon king Æthelred the Unready and Emma of Normandy.  And whether the Conquest itself led to significant linguistic upheaval has been subject to much debate, with scholars questioning how far, and in which contexts, French permeated medieval society.
+The Norman Conquest of 1066 is often understood as a major turning point in the linguistic history of England, since it placed French-speaking Normans in the high ranks of both secular and religious administration.
 
-This database aims to shed light on the status of French following the Norman Conquest, including who read it, when, and in which contexts. The project approaches these questions through an exploration of all manuscripts produced between 1100 and 1550 that contain French literature. Manuscripts have been chosen as a focal point because, as unique written witnesses to language use, they provide unmatched large-scale data about England’s linguistic situation.
+The Conquest has become so important for the history of the English language that it is often treated as the end of the Old English period and the start of the Middle English period.
+
+Yet scholars have become increasingly interested in evaluating the significance of the Conquest for England’s linguistic history. As Douglas Kibbee (1991) and others have pointed out, the Normans had, long before the Conquest, established powerful ties to England, including, perhaps most famously, the 1002 marriage between the Anglo-Saxon king Æthelred the Unready and Emma of Normandy.  And whether the Conquest itself led to significant linguistic upheaval has been subject to much debate, with scholars questioning how far, and in which contexts, French permeated medieval society. 
+
+## A catalogue of manuscripts containing French literature
+
+This database aims to shed light on the status of French following the Norman Conquest, including who read it, when, and in which contexts.
+
+The project approaches these questions through an exploration of all manuscripts produced between 1100 and 1550 that contain French literature. Manuscripts have been chosen as a focal point because, as unique written witnesses to language use, they provide unmatched large-scale data about England’s linguistic situation.
 
 ## Credits
 
